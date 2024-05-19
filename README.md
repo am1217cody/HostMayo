@@ -1,4 +1,4 @@
-# HostMayo怎么样？SSD/KVM VPS介绍和测评
+# HostMayo怎么样？HostMayo介绍和测评
 
 ## HostMayo介绍
 HostMayo VPS是一种提供高性能和高可靠性的虚拟私人服务器，适用于那些需要快速、安全和可扩展服务器资源的业务。这类VPS通常采用最新的固态硬盘（SSD）技术和基于内核的虚拟机（KVM）技术，确保提供优越的输入输出性能和真实的虚拟化环境。
